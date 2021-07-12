@@ -17,3 +17,5 @@ class Vehicle:
 vh=Vehicle()
 vh.vdetails("CIVIC","HONDA","kl123456","black")
 print(vh) # gives object location
+
+vh1=Vehicle()
