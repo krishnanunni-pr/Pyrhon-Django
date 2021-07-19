@@ -1,0 +1,31 @@
+body{
+    background-color: #f5f5f5;
+}
+div{
+    float:left;
+    width:30% ;
+    border :solid turquoise 2px;
+    min-height: 600px;
+    background-color: #fbfbfb;
+    margin-left: 10px;
+    
+}
+
+div img{
+    width: 100%;
+}
+/* css unit % is a relative -depends on pareent */
+/* px pixel is absolute */
+
+div h3{
+    color: #5e068a;
+    padding: 20px;
+}
+
+div p{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    padding: 20px;
+    
+}
