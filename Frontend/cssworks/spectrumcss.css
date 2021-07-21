@@ -1,0 +1,174 @@
+body{
+
+    background-color:#111411;
+}
+
+h1{
+
+    color: white;
+    text-align: center;
+}
+
+.row{
+    position: absolute;
+    top: 18% ;
+    left: 26%;
+    width: 660px; ;
+    height: 150px;
+    /* background-color: violet; */
+}
+
+.col{
+    float:left;
+    margin-left: 1px;
+    width: 130px;;
+    height: 150px;
+    /* mar */
+
+}
+.col:nth-child(1){
+
+    
+    background-color: yellowgreen;
+    /* border: 2px solid red; */
+    width: 20%;
+
+
+}
+
+.col:nth-child(2){
+    background-color: coral;
+}
+
+.col:nth-child(3){
+
+    
+    background-color: navy;
+
+
+}
+
+.col:nth-child(4){
+
+    
+    background-color:palevioletred;
+
+
+}
+.col:nth-child(5){
+
+    
+    background-color:tomato;
+
+
+}
+
+
+
+
+.row-1{
+    position:absolute;
+    top: 50%;
+    width: 970px;
+    height: 250px;
+    left: 16%;
+    /* background-color: brown; */
+
+
+}
+
+.col-1{
+
+    float: left;
+    width: 131px;
+    height: 150px;
+    margin-left: 1px;
+
+}
+
+.col-1:nth-child(1){
+    background-color: chartreuse;
+}
+
+.col-1:nth-child(2){
+    background-color: cyan;
+}
+
+.col-1:nth-child(3){
+    background-color:darkmagenta;
+}
+.col-1:nth-child(4){
+    background-color: darkslategrey;
+}
+
+.col-1:nth-child(5){
+    background-color: #fff;
+}
+
+.col-1:nth-child(6){
+    background-color: deeppink;
+}
+
+.col-1:nth-child(7){
+    background-color: firebrick;
+}
+
+
+
+.row-2{
+    position:absolute;
+    top: 83%;
+    width: 90%;
+    height: 250px;
+    left: 5.5%;
+    /* background-color: brown; */
+
+
+}
+
+
+.col-2{
+
+    float: left;
+    width:132px;
+    height: 150px;
+    margin-left: 1px;
+
+}
+
+
+.col-2:nth-child(1){
+    background-color: #07e859;
+}
+
+.col-2:nth-child(2){
+    background-color: #0ec4c1;
+}
+
+.col-2:nth-child(3){
+    background-color: #ad79db;
+}
+
+.col-2:nth-child(4){
+    background-color: #bf3b17;
+}
+
+.col-2:nth-child(5){
+    background-color: #d46c7d;
+}
+
+.col-2:nth-child(6){
+    background-color: aqua;
+}
+
+.col-2:nth-child(7){
+    background-color: #439449;
+}
+
+.col-2:nth-child(8){
+    background-color: blueviolet;
+}
+
+.col-2:nth-child(9){
+    background-color: chartreuse;
+}
