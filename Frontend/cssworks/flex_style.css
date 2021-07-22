@@ -1,0 +1,29 @@
+.row{
+    width: 70%;
+    height: 400px;
+    background-color: cyan;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+
+.col{
+    width: 150px;
+    height: 200px;
+}
+
+.col:nth-child(1){
+    background-color: darkgreen;
+}
+
+.col:nth-child(2){
+    background-color: darkslategray;
+}
+
+.col:nth-child(3){
+    background-color: deeppink;
+}
+
+.col:nth-child(4){
+    background-color: gold;
+}

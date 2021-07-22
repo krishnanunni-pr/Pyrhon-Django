@@ -1,10 +1,10 @@
 body{
-    background-color:cornsilk
+    background-color:skyblue
 }
 div{
     float: left;
     width: 22% ;
-    border :solid turquoise 2px;
+    border :solid greenyellow 2px;
     min-height: 600px;
     background-color: #fbfbfb;
     margin-left: 25px;
