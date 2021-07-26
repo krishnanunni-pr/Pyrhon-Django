@@ -4,7 +4,7 @@ users={
     1002: {"acconu_num": 1002, "password": "user2", "balance": 5000},
     1003: {"acconu_num": 1003, "password": "user3", "balance": 6000}
 }
-
+print(users)
 
 def authenticate(**kwargs): # kwargs={"accno:1000,password:test1}
     user=kwargs["accno"]
