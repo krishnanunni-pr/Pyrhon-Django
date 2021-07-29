@@ -5,15 +5,16 @@
 emp = {}
 fixed = {}
 i = 1
-with open("employee", 'r') as f:
-    for line in f:
-        listDetails = line.strip().split(',')
-        fixed[i] = {"id": listDetails[0]}
-        fixed[i].update({"name": listDetails[1]})
-        fixed[i].update({"role": listDetails[2]})
-        fixed[i].update({"number": listDetails[3]})
-        fixed[i].update({"salary": listDetails[4]})
-        i+=1
+f=open("employee",r)
+# with open("employee", 'r') as f:
+for line in f:
+    listDetails = line.strip().split(',')
+    fixed[i] = {"id": listDetails[0]}
+    fixed[i].update({"name": listDetails[1]})
+    fixed[i].update({"role": listDetails[2]})
+    fixed[i].update({"number": listDetails[3]})
+    fixed[i].update({"salary": listDetails[4]})
+    i+=1
 print(fixed)
 
 def details(**kwargs):
