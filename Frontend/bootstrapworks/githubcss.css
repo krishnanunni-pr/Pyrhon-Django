@@ -1,0 +1,136 @@
+/* body{
+    background-color: #f9f9f9;
+    background-color: #fff;
+} */
+
+/* .container p{
+    font-size: 24px;
+    font-weight: 350;
+    color: #333;
+    padding-top: 20px;
+}
+
+.container .form{
+    
+    margin-bottom: 15px;
+	background-color: #f6f8fa;
+    padding: 20px; 
+} */
+/* .form label{
+	display: block;
+	font-weight: 400;
+    font-size: 14px;
+	margin-bottom: 7px;
+	color: #24292e;
+} */
+
+/* .form input{
+	margin-bottom: 15px;
+	position: relative;
+    width: 100%;
+	background: #fff;
+    font-size: 16px;
+    line-height: 20px;
+    min-height: 34px;
+    padding: 6px 8px;
+
+} */
+
+
+.col4bg{
+    background-color:#161b22;
+    border-color:#1a1f26 ;
+    border-radius: 6px;
+
+    
+    
+}
+.col-4 .txt{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  color: aqua;
+  font-weight: 200;
+  /* width:100px; */
+}
+.col-4 p{ 
+ font-size: 20px;
+}
+
+.label{ 
+    font-size: 14px;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+
+}
+.txtbox{
+    background-color: #0d1117;
+    border-color:#1a1f26 ;
+    border-radius: 5px;
+    border-style: solid;
+    width: 260px;
+}
+.atag{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none; 
+    color: #4989d2;
+    
+
+}
+.btn1{
+    color: white;
+    background-color: #238636;
+    border-color: #238636;
+    width:260px;
+    border-radius: 5px;
+    border-style: solid;
+}
+footer .sp{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: #c0c8d0;
+    text-decoration: none;
+    
+ }
+ footer .sp:hover{
+     color: #4989d2;
+     text-decoration: underline;
+ }
+
+ .btag{
+    font-size: 12px;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-decoration: none; 
+    color: #4989d2;
+    padding-left: 3px;
+ }
+.btag:hover{
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* color: #4F94E2 */
+
