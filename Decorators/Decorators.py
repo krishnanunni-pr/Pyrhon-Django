@@ -1,4 +1,4 @@
-# adding extra features without cahnging function definition
+# adding extra features without changing function definition
 
 def check(func):
     def wrapper(name,age):# ("arjun",16)
@@ -12,4 +12,6 @@ def check(func):
 
 def vaccine(name,age):
     print("Eligible for vaccination")
-vaccine("ARJUN",16)
+
+cust_age=int(input("enter age :"))
+vaccine("ARJUN",cust_age)
